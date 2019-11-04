@@ -1,0 +1,6 @@
+C:\Users\Web App Develop .Net\Desktop\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.dll
+C:\Users\Web App Develop .Net\Desktop\WebApp\WebApp\WebApp.Model\bin\Debug\WebApp.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.dll
+C:\Users\Web App Develop .Net\Desktop\WebApp\WebApp\WebApp.Model\obj\Debug\WebApp.Model.pdb
